@@ -33,3 +33,8 @@ Also, lodgings with a flexible cancellation policy have got an average review sc
 Seattle Data: https://www.kaggle.com/airbnb/seattle/data
 
 Boston Data: https://www.kaggle.com/airbnb/boston
+
+# Blog Post Report for this project present:
+https://medium.com/@nicotacor/seattle-and-boston-airbnb-data-2efae70bed15
+
+
